@@ -26,7 +26,8 @@ This repository contains machine learning models that I built while learning mac
 
 ## Usage
 
-Each model is implemented in a separate Python script. To run a specific model, simply execute the corresponding script. You can also customize the scripts or integrate them into your own projects as needed.
+Each model is implemented in a separate Python script.
+To run a specific model, simply execute the corresponding script.
 
 ## Dependencies
 
@@ -37,4 +38,4 @@ Each model is implemented in a separate Python script. To run a specific model, 
 - matplotlib
 
 Install the required dependencies using pip:
-
+pip install scikit-learn numpy pandas matplotlib

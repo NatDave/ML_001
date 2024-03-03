@@ -5,10 +5,15 @@ This repository contains machine learning models that I built while learning mac
 ## Models
 
 ### 0. k-Nearest Neighbors (kNN)
+#### a. Classification
 - iris.ipynb
 - forge.ipynb
 - cancer.ipynb
 
+#### b. Regression
+- 
+- 
+- 
 ### 1. Linear Regression
 - biking.ipynb (data = bikes.csv)
 - 

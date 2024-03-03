@@ -5,7 +5,7 @@ This repository contains machine learning models that I built while learning mac
 ## Models
 
 ### 0. k-Nearest Neighbors (kNN)
-- iris
+- iris.ipynb
 - 
 
 ### 1. Linear Regression

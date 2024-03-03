@@ -9,7 +9,7 @@ This repository contains machine learning models that I built while learning mac
 - 
 
 ### 1. Linear Regression
-- biking (data = bikes.csv)
+- biking.ipynb (data = bikes.csv)
 - 
    
 ### 2. Logistic Regression

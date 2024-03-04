@@ -11,9 +11,8 @@ This repository contains machine learning models that I built while learning mac
 - cancer.ipynb
 
 #### b. Regression
-- 
-- 
-- 
+- wave.ipynb
+ 
 ### 1. Linear Regression
 - biking.ipynb (data = bikes.csv)
 - 

@@ -1,4 +1,4 @@
-# Basic Machine Learning Models
+# Machine Learning Models
 
 This repository contains machine learning models that I built while learning machine learning in the early stages of my journey (January 2024). Each model is implemented using Python and popular machine learning libraries such as scikit-learn.
 

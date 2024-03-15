@@ -29,6 +29,10 @@ This repository contains machine learning models that I built while learning mac
 - 
 - 
 
+### 5. AdaBoost
+- 
+- 
+
 ## Usage
 Each model is implemented in a separate Python script.
 To run a specific model, simply execute the corresponding script.

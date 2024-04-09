@@ -21,7 +21,7 @@ This repository contains machine learning models that I built while learning mac
 - 
 - 
 
-### 0. Decision Trees
+### 3. Decision Trees
 #### a. Classification
 - breast_DT.ipynb
 

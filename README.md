@@ -20,9 +20,13 @@ This repository contains machine learning models that I built while learning mac
 ### 2. Logistic Regression
 - 
 - 
- 
-### 3. Decision Trees
-- 
+
+### 0. Decision Trees
+#### a. Classification
+- breast_DT.ipynb
+
+#### b. Regression
+- RAM_DT.ipynb
 - 
 
 ### 4. Support Vector Machines (SVM)

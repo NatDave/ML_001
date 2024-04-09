@@ -23,10 +23,10 @@ This repository contains machine learning models that I built while learning mac
 
 ### 3. Decision Trees
 #### a. Classification
-- breast_DT.ipynb
+- breast.ipynb
 
 #### b. Regression
-- RAM_DT.ipynb
+- ram.ipynb
 - 
 
 ### 4. Support Vector Machines (SVM)
@@ -47,6 +47,8 @@ To run a specific model, simply execute the corresponding script.
 - numpy
 - pandas
 - matplotlib
+- ucmlrepo
+- mglearn
 
 Install the required dependencies using pip:
-pip install scikit-learn numpy pandas matplotlib
+pip install scikit-learn numpy pandas matplotlib ucmlrepo mglearn

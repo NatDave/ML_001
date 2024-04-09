@@ -29,13 +29,11 @@ This repository contains machine learning models that I built while learning mac
 - ram.ipynb
 - 
 
-### 4. Support Vector Machines (SVM)
-- 
+### 4. Random Forests
+- two_moons.ipynb
 - 
 
-### 5. AdaBoost
-- 
-- 
+
 
 ## Usage
 Each model is implemented in a separate Python script.
